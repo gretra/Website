@@ -1,0 +1,282 @@
+{
+  "bounds" : {
+    "point1" : {
+      "lat" : 0,
+      "lng" : 0
+    },
+    "point2" : {
+      "lat" : 0,
+      "lng" : 0
+    },
+    "point3" : {
+      "lat" : 0,
+      "lng" : 0
+    },
+    "point4" : {
+      "lat" : 0,
+      "lng" : 0
+    }
+  },
+  "users" : {
+    "Mz7qz3oO4QRnXrKy5hhGlc61fT33" : {
+      "email" : "m@gmail.com",
+      "time_stamps" : {
+        "2018-05-21" : {
+          "0" : {
+            "Start" : "10:10:00"
+          },
+          "1" : {
+            "Start" : "10:10:00",
+            "Stop" : "10:11:04"
+          },
+          "Total today" : "00:01:03",
+          "interval_counter" : 2
+        },
+        "2018-05-23" : {
+          "6" : {
+            "Stop" : "11:31:38"
+          },
+          "7" : {
+            "Start" : "11:31:39"
+          },
+          "Total today" : "00:00:24",
+          "interval_counter" : 7
+        },
+        "2018-05-24" : {
+          "1" : {
+            "Start" : "08:28:01",
+            "Stop" : "08:29:02",
+            "TotalInMillis" : 101013
+          },
+          "2" : {
+            "Start" : "08:29:19",
+            "Stop" : "08:30:49",
+            "TotalInMillis" : 61309
+          },
+          "3" : {
+            "Start" : "08:31:27",
+            "Stop" : "08:31:28",
+            "TotalInMillis" : 89951
+          },
+          "4" : {
+            "Start" : "08:31:27",
+            "Stop" : "08:31:28",
+            "TotalInMillis" : 1177
+          },
+          "5" : {
+            "Start" : "08:47:25",
+            "Stop" : "08:47:48",
+            "TotalInMillis" : 23427
+          },
+          "Total today" : "00:04:36",
+          "interval_counter" : 5
+        }
+      },
+      "vardas" : "Martynas"
+    },
+    "X4lFG6Slp1gI546lBvByxbS89cv2" : {
+      "email" : "tadas@tadas.com",
+      "time_stamps" : {
+        "2018-04-16" : {
+          "1" : {
+            "Start" : "08:25:13",
+            "Stop" : "08:25:15"
+          },
+          "2" : {
+            "Start" : "08:25:16",
+            "Stop" : "08:25:17"
+          },
+          "3" : {
+            "Start" : "08:25:18",
+            "Stop" : "08:25:19"
+          },
+          "4" : {
+            "Start" : "08:25:29",
+            "Stop" : "08:25:30"
+          },
+          "5" : {
+            "Start" : "08:25:32",
+            "Stop" : "08:25:32"
+          },
+          "Total today" : "00:00:03",
+          "interval_counter" : 6
+        },
+        "2018-04-23" : {
+          "1" : {
+            "Start" : "12:12:44",
+            "Stop" : "12:12:48"
+          },
+          "Total today" : "00:00:03",
+          "interval_counter" : 2
+        },
+        "2018-04-25" : {
+          "1" : {
+            "Start" : "10:28:52",
+            "Stop" : "10:28:55"
+          },
+          "2" : {
+            "Start" : "10:29:01",
+            "Stop" : "10:29:05"
+          },
+          "Total today" : "00:00:06",
+          "interval_counter" : 3
+        },
+        "2018-04-26" : {
+          "1" : {
+            "Start" : "01:47:22",
+            "Stop" : "01:47:25"
+          },
+          "Total today" : "00:00:02",
+          "interval_counter" : 2
+        },
+        "2018-05-14" : {
+          "1" : {
+            "Start" : "07:11:27",
+            "Stop" : "07:13:06"
+          },
+          "2" : {
+            "Start" : "07:13:12",
+            "Stop" : "07:22:54"
+          },
+          "3" : {
+            "Start" : "07:24:22",
+            "Stop" : "07:25:01"
+          },
+          "Total today" : "00:12:00",
+          "interval_counter" : 4
+        },
+        "2018-05-15" : {
+          "1" : {
+            "Start" : "01:44:44",
+            "Stop" : "01:44:44"
+          },
+          "Total today" : "00:00:00",
+          "interval_counter" : 2
+        },
+        "2018-05-22" : {
+          "1" : {
+            "Start" : "10:49:42",
+            "Stop" : "10:50:15",
+            "TotalInMillis" : 33163
+          },
+          "2" : {
+            "Start" : "11:09:37",
+            "Stop" : "11:09:56",
+            "TotalInMillis" : 19478
+          },
+          "3" : {
+            "Start" : "11:12:54",
+            "Stop" : "11:15:10",
+            "TotalInMillis" : 136325
+          },
+          "4" : {
+            "Start" : "11:15:48",
+            "Stop" : "11:17:00",
+            "TotalInMillis" : 72017
+          },
+          "5" : {
+            "Start" : "11:18:23"
+          },
+          "6" : {
+            "Stop" : "11:18:38",
+            "TotalInMillis" : 15674
+          },
+          "7" : {
+            "Start" : "11:19:17",
+            "Stop" : "11:19:21",
+            "TotalInMillis" : 3744
+          },
+          "8" : {
+            "Start" : "11:28:54"
+          },
+          "9" : {
+            "Stop" : "11:29:09",
+            "TotalInMillis" : 14730
+          },
+          "10" : {
+            "Start" : "11:32:32",
+            "Stop" : "11:32:38",
+            "TotalInMillis" : 5825
+          },
+          "11" : {
+            "Start" : "11:33:03"
+          },
+          "12" : {
+            "Stop" : "11:33:12",
+            "TotalInMillis" : 8716
+          },
+          "13" : {
+            "Start" : "11:35:03",
+            "Stop" : "11:35:13",
+            "TotalInMillis" : 10109
+          },
+          "Total today" : "00:05:19",
+          "interval_counter" : 13
+        }
+      },
+      "vardas" : "Tadas"
+    },
+    "n48R2YbpkaYZjxzKP2EFzdLdhQx1" : {
+      "email" : "test@test.com",
+      "time_stamps" : {
+        "2018-04-17" : {
+          "1" : {
+            "Start" : "02:08:21",
+            "Stop" : "02:08:23"
+          },
+          "2" : {
+            "Start" : "02:08:24",
+            "Stop" : "02:08:25"
+          },
+          "3" : {
+            "Start" : "02:08:26",
+            "Stop" : "02:08:27"
+          },
+          "4" : {
+            "Start" : "02:08:28",
+            "Stop" : "02:08:29"
+          },
+          "5" : {
+            "Start" : "02:08:30",
+            "Stop" : "02:08:31"
+          },
+          "6" : {
+            "Start" : "02:08:33",
+            "Stop" : "02:08:34"
+          },
+          "7" : {
+            "Start" : "02:08:35",
+            "Stop" : "02:08:36"
+          },
+          "8" : {
+            "Start" : "02:09:34",
+            "Stop" : "02:09:36"
+          },
+          "9" : {
+            "Start" : "02:09:37",
+            "Stop" : "02:09:37"
+          },
+          "10" : {
+            "Start" : "02:09:38",
+            "Stop" : "02:09:38"
+          },
+          "11" : {
+            "Start" : "02:09:38",
+            "Stop" : "02:09:38"
+          },
+          "12" : {
+            "Start" : "02:09:38",
+            "Stop" : "02:09:41"
+          },
+          "13" : {
+            "Start" : "02:17:14",
+            "Stop" : "02:17:14"
+          },
+          "Total today" : "00:00:13",
+          "interval_counter" : 14
+        }
+      },
+      "vardas" : "Test"
+    }
+  }
+}

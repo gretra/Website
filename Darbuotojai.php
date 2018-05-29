@@ -1,0 +1,29 @@
+<?php
+
+$title = "Home";
+$content = '<body>
+  <button onclick="fetchData()">Visi darbuotojai</button>
+
+  <table border="1" class="userList">
+    <tr>
+        <th>Email</th>
+        <th>Name</th>
+    </tr>
+  </table>
+
+  <script src="https://www.gstatic.com/firebasejs/5.0.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.0.1/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.0.1/firebase-database.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.0.1/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.0.1/firebase-messaging.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.0.1/firebase-functions.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.0.3/firebase.js"></script>
+
+  <script type="text/javascript" src="main.js"></script>
+</body>';
+
+include 'Template.php';
+        
+require("config.php");
+
+?>
